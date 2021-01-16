@@ -101,11 +101,11 @@ h3 {
     display: inline;
 }
 
-img{
+#MyWork img{
     transition: tranform .2s; 
 }
 
-img:hover{
+#MyWork img:hover{
     transform:scale(0.9);
 }
 
